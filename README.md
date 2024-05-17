@@ -1,6 +1,6 @@
 <h1>Twitter Clone</h1>
 
-This project was created with React.
+This project was created with React and Firebase.
 
 <h2>LIBRARY</h2>
 
